@@ -1,2 +1,3 @@
-# Microsoft Core Fonts
-Font families used in Microsoft products.
+# Microsoft Products Resources
+
+Resources used in Microsoft products.
